@@ -11,7 +11,7 @@ from starlette.staticfiles import StaticFiles
 
 
 #export_file_url = 'https://www.dropbox.com/s/6bgq8t6yextloqp/export.pkl?raw=1'
-export_file_url = 'https://drive.google.com/open?id=1ltFJ0iIgRWFz_stPp2XZI9C85pb_ZNPR'
+export_file_url = 'https://drive.google.com/open?id=1nrgsGFwzPtWZbyiOSJDh1in6gX5EQop7'
 
 #export_file_name = 'export.pkl'
 export_file_name = 'wakumayu.pkl'
